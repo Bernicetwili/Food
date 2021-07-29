@@ -63,9 +63,9 @@ header{
     align-items: center;
     transition: 0.5s;
 }
-header.sticky{
+/* header.sticky{
     bac
-}
+} */
 header .logo{
     color: #fff;
     font-weight: 700;
